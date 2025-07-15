@@ -1,0 +1,58 @@
+﻿
+<div class="blog-container">
+    <h3 class="page-title">Our Blog</h3>
+
+    <div class="filter-bar">
+        <div class="filter-item">
+            <label>Filter by Category</label>
+            <select onchange="location.href='?category=' + this.value + '&sortOrder=@ViewBag.CurrentSort&page=1'">
+                <option value="">All</option>
+                <option value="Marketing" selected="@("Marketing" == ViewBag.SelectedCategory)">Marketing</option>
+                <option value="Strategy" selected="@("Strategy" == ViewBag.SelectedCategory)">Strategy</option>
+                <option value="Social Media" selected="@("Social Media" == ViewBag.SelectedCategory)">Social Media</option>
+                <option value="Design" selected="@("Design" == ViewBag.SelectedCategory)">Design</option>
+                <option value="Branding" selected="@("Branding" == ViewBag.SelectedCategory)">Branding</option>
+            </select>
+        </div>
+
+        <div class="filter-item">
+            <label>Sort by</label>
+            <select onchange="location.href='?sortOrder=' + this.value + '&category=@ViewBag.SelectedCategory&page=1'">
+                <option value="newest" selected="@("newest" == ViewBag.CurrentSort)">Newest First</option>
+                <option value="oldest" selected="@("oldest" == ViewBag.CurrentSort)">Oldest First</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="blog-list">
+        @foreach (var post in Model)
+        {
+            <div class="blog-item">
+                <h2>
+                    <a asp-controller="Blog" asp-action="Detail" asp-route-slug="@post.Slug" target="_parent">
+                        @post.Title
+                    </a>
+                </h2>
+                <p>@post.Description</p>
+                <span class="blog-date">@post.PublishedDate.ToString("dd MMM yyyy")</span>
+                <hr>
+            </div>
+        }
+    </div>
+
+    <div class="pagination">
+        @if (ViewBag.CurrentPage > 1)
+        {
+            <a href="?page=@(ViewBag.CurrentPage - 1)&category=@ViewBag.SelectedCategory&sortOrder=@ViewBag.CurrentSort">« Previous</a>
+        }
+        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            var activeClass = i == ViewBag.CurrentPage ? "active" : "";
+            <a class="@activeClass" href="?page=@i&category=@ViewBag.SelectedCategory&sortOrder=@ViewBag.CurrentSort">@i</a>
+        }
+        @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+        {
+            <a href="?page=@(ViewBag.CurrentPage + 1)&category=@ViewBag.SelectedCategory&sortOrder=@ViewBag.CurrentSort">Next »</a>
+        }
+    </div>
+</div>

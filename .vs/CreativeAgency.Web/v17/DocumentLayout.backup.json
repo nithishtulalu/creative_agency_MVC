@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\vartic_Task\\CreativeAgency.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|f:\\vartic_task\\creativeagency.web\\creativeagency.web\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|solutionrelative:creativeagency.web\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|f:\\vartic_task\\creativeagency.web\\creativeagency.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|solutionrelative:creativeagency.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|f:\\vartic_task\\creativeagency.web\\creativeagency.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|solutionrelative:creativeagency.web\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|f:\\vartic_task\\creativeagency.web\\creativeagency.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|solutionrelative:creativeagency.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|f:\\vartic_task\\creativeagency.web\\creativeagency.web\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|solutionrelative:creativeagency.web\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|f:\\vartic_task\\creativeagency.web\\creativeagency.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|solutionrelative:creativeagency.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|f:\\vartic_task\\creativeagency.web\\creativeagency.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|solutionrelative:creativeagency.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|f:\\vartic_task\\creativeagency.web\\creativeagency.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|solutionrelative:creativeagency.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|f:\\vartic_task\\creativeagency.web\\creativeagency.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AFCBE44-4919-4874-BD79-445C679F0143}|CreativeAgency.Web\\CreativeAgency.Web.csproj|solutionrelative:creativeagency.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "CreativeAgency.Web\\appsettings.json",
+              "ToolTip": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\appsettings.json",
+              "RelativeToolTip": "CreativeAgency.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T10:24:39.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "CreativeAgency.Web\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "CreativeAgency.Web\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:10:17.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CreativeAgency.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CreativeAgency.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:06:32.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "CreativeAgency.Web\\Views\\Home\\About.cshtml",
+              "ToolTip": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "CreativeAgency.Web\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:06:29.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CreativeAgency.Web\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "CreativeAgency.Web\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:06:21.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CreativeAgency.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CreativeAgency.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:06:17.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "CreativeAgency.Web\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "CreativeAgency.Web\\Views\\Shared\\_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:05:55.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "CreativeAgency.Web\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "CreativeAgency.Web\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:05:52.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CreativeAgency.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\vartic_Task\\CreativeAgency.Web\\CreativeAgency.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CreativeAgency.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-10T10:05:40.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

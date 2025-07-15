@@ -1,0 +1,19 @@
+﻿
+@model CreativeAgency.Web.Models.BlogPostModel
+
+<div class="blog-detail-container">
+    <h1 class="detail-title">@Model.Title</h1>
+    <div class="detail-meta">
+        <span class="detail-date">@Model.PublishedDate.ToString("dd MMM yyyy")</span>
+        <span class="detail-category">@Model.Category</span>
+    </div>
+
+    <div class="detail-content">
+        <p>@Model.Description</p>
+       
+    </div>
+
+    <div class="back-link">
+        <a href="/blog">← Back to Blog</a>
+    </div>
+</div>
