@@ -58,7 +58,7 @@
 4. Run EF Migrations if needed
 5. Press F5 to build and run the site
 
-## 💡 Future Improvements (Optional)
+## 💡 Future Improvements 
 
 - Add blog management via Admin panel
 - Integrate CAPTCHA for the contact form
