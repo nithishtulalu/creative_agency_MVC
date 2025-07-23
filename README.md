@@ -1,7 +1,5 @@
 ﻿
-# Creative Agency Website – ASP.NET MVC Conversion
-
-This project is a fully functional Creative Agency website built using **ASP.NET MVC**. It is a conversion of a static site into a dynamic MVC-based architecture with Razor view engine, routing, and server-side logic for a contact form.
+# Creative Agency Website – ASP.NET MVC 
 
 ## 📁 Project Structure
 ├── Controllers/
